@@ -1,6 +1,4 @@
-# AngularElectron
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
+# Angular Electron
 
 ## Development server
 
@@ -21,6 +19,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Running Electron
+
+Run `npm run electron` to build and start electron. Use `npm run electron:prod` to build the angular project with `--prod` flag.
 
 ## Further help
 
