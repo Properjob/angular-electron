@@ -20,9 +20,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Running Electron
+## Running Electron with Hot Reload
 
-Run `npm run electron` to build and start electron. Use `npm run electron:prod` to build the angular project with `--prod` flag.
+Run `npm run electron:start` to build and start electron. 
 
 ## Further help
 
